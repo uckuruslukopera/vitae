@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './vitae.svg';
+import Header from './components/Header';
 
 
 import {
@@ -17,22 +17,9 @@ function App() {
     <Router>
       <div className="bg-light">
 
-        <nav className="navbar bg-primary navbar-dark sticky-top">
-          <a className="navbar-brand" href="/">
+        <Header />
 
-            <img
-              src={logo}
-              alt="vitae logo"
-              height="60"
-              width="100" />
-          </a>
-          <a className="navbar-text mr-4" target="_blank" href="https://github.com/uckuruslukopera/vitae">
-
-            Github'da gör
-          </a>
-        </nav>
-
-        <main className="container ">
+        <main className="container py-5">
           <Switch>
             <Route path="/jobdetails/:jobId" component={JobDetails} />
             <Route path="/joblist" component={JobList} />
