@@ -1,5 +1,152 @@
-{
-    "version": "1.0",
-    "statusCode": 200,
-    "result": {}
-}
+[
+    {
+        "jobId": "C71CD1954BA149BCAF42B25F775EA4FB",
+        "positionName": "Gerber Operatörü",
+        "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "https://i.pravatar.cc/120",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "İstanbul",
+        "townName": "Ümraniye",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et nibh egestas, tempus risus nec, hendrerit urna. Nam ultricies nunc tellus, et cursus ante dictum id. Praesent leo lectus, sodales in tincidunt quis, eleifend ut diam. Suspendisse sed dolor condimentum, vestibulum metus eu, commodo justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse ac suscipit ligula, quis convallis mauris. Nam eleifend ultrices facilisis. Aenean convallis libero eget tincidunt hendrerit. Morbi bibendum fringilla nisl vitae maximus. Donec eget posuere tellus. Nunc pharetra est non nunc consectetur consectetur. Duis convallis eros eu tortor mollis efficitur. Nunc hendrerit purus a facilisis tristique. Quisque laoreet nec felis sed sagittis. ",
+        "status": 1,
+        "contactPhone": {
+            "countryCallingCode": "+90",
+            "areaCode": "879",
+            "number": "9797979"
+        }
+    },
+    {
+        "jobId": "C71CD1954BA149BCAF42B25F775EA5FB",
+        "positionName": "Ofis Adamı",
+        "companyName": "Deniz Sinemacılık ve Reklam",
+        "durationDay": 2,
+        "durationDayText": "Yeni Sayılır!",
+        "imageUrl": "https://i.pravatar.cc/120",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "Ankara",
+        "townName": "Yenişehir",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Yenişehir/Ankara Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et nibh egestas, tempus risus nec, hendrerit urna. Nam ultricies nunc tellus, et cursus ante dictum id. Praesent leo lectus, sodales in tincidunt quis, eleifend ut diam. Suspendisse sed dolor condimentum, vestibulum metus eu, commodo justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse ac suscipit ligula, quis convallis mauris. Nam eleifend ultrices facilisis. Aenean convallis libero eget tincidunt hendrerit. Morbi bibendum fringilla nisl vitae maximus. Donec eget posuere tellus. Nunc pharetra est non nunc consectetur consectetur. Duis convallis eros eu tortor mollis efficitur. Nunc hendrerit purus a facilisis tristique. Quisque laoreet nec felis sed sagittis. ",
+        "status": 1,
+        "contactPhone": {
+            "countryCallingCode": "+90",
+            "areaCode": "879",
+            "number": "9797979"
+        }
+    },
+    {
+        "jobId": "C71CD1954BA149BCAF42B25F775EA6FB",
+        "positionName": "Boş İşler Müdürü",
+        "companyName": "Boş Beleş Holding",
+        "durationDay": 2,
+        "durationDayText": "Yeni Sayılır!",
+        "imageUrl": "https://i.pravatar.cc/120",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "Beyoğlu",
+        "townName": "Ümraniye",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Beyoğlu/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et nibh egestas, tempus risus nec, hendrerit urna. Nam ultricies nunc tellus, et cursus ante dictum id. Praesent leo lectus, sodales in tincidunt quis, eleifend ut diam. Suspendisse sed dolor condimentum, vestibulum metus eu, commodo justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse ac suscipit ligula, quis convallis mauris. Nam eleifend ultrices facilisis. Aenean convallis libero eget tincidunt hendrerit. Morbi bibendum fringilla nisl vitae maximus. Donec eget posuere tellus. Nunc pharetra est non nunc consectetur consectetur. Duis convallis eros eu tortor mollis efficitur. Nunc hendrerit purus a facilisis tristique. Quisque laoreet nec felis sed sagittis. ",
+        "status": 1,
+        "contactPhone": {
+            "countryCallingCode": "+90",
+            "areaCode": "879",
+            "number": "9797979"
+        }
+    },
+    {
+        "jobId": "C71CD1954BA149BCAF42B25F775EA7FB",
+        "positionName": "Toplantı Uzman Yardımcısı",
+        "companyName": "Olympia Profesyonel Toplantı Hizmetleri",
+        "durationDay": 5,
+        "durationDayText": "Eskiyor!",
+        "imageUrl": "https://i.pravatar.cc/120",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "İstanbul",
+        "townName": "Levent",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Levent/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et nibh egestas, tempus risus nec, hendrerit urna. Nam ultricies nunc tellus, et cursus ante dictum id. Praesent leo lectus, sodales in tincidunt quis, eleifend ut diam. Suspendisse sed dolor condimentum, vestibulum metus eu, commodo justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse ac suscipit ligula, quis convallis mauris. Nam eleifend ultrices facilisis. Aenean convallis libero eget tincidunt hendrerit. Morbi bibendum fringilla nisl vitae maximus. Donec eget posuere tellus. Nunc pharetra est non nunc consectetur consectetur. Duis convallis eros eu tortor mollis efficitur. Nunc hendrerit purus a facilisis tristique. Quisque laoreet nec felis sed sagittis. ",
+        "status": 1,
+        "contactPhone": {
+            "countryCallingCode": "+90",
+            "areaCode": "879",
+            "number": "9797979"
+        }
+    },
+    {
+        "jobId": "C71CD1954BA149BCAF42B25F775EA8FB",
+        "positionName": "Uzman Düşünür",
+        "companyName": "Siz Kendinizi Yormayın Ajansı",
+        "durationDay": 8,
+        "durationDayText": "Nerdeyse Bulmuşlardır!",
+        "imageUrl": "https://i.pravatar.cc/120",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "İstanbul",
+        "townName": "Ümraniye",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et nibh egestas, tempus risus nec, hendrerit urna. Nam ultricies nunc tellus, et cursus ante dictum id. Praesent leo lectus, sodales in tincidunt quis, eleifend ut diam. Suspendisse sed dolor condimentum, vestibulum metus eu, commodo justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse ac suscipit ligula, quis convallis mauris. Nam eleifend ultrices facilisis. Aenean convallis libero eget tincidunt hendrerit. Morbi bibendum fringilla nisl vitae maximus. Donec eget posuere tellus. Nunc pharetra est non nunc consectetur consectetur. Duis convallis eros eu tortor mollis efficitur. Nunc hendrerit purus a facilisis tristique. Quisque laoreet nec felis sed sagittis. ",
+        "status": 1,
+        "contactPhone": {
+            "countryCallingCode": "+90",
+            "areaCode": "879",
+            "number": "9797979"
+        }
+    },
+    {
+        "jobId": "C71CD1954BA149BCAF42B25F775EA9FB",
+        "positionName": "Geri Bildirim Analisti",
+        "companyName": "Ekip Ruhu Limited Şirketi",
+        "durationDay": 8,
+        "durationDayText": "Nerdeyse Bulmuşlardır!",
+        "imageUrl": "https://i.pravatar.cc/120",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "İstanbul",
+        "townName": "Ümraniye",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et nibh egestas, tempus risus nec, hendrerit urna. Nam ultricies nunc tellus, et cursus ante dictum id. Praesent leo lectus, sodales in tincidunt quis, eleifend ut diam. Suspendisse sed dolor condimentum, vestibulum metus eu, commodo justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse ac suscipit ligula, quis convallis mauris. Nam eleifend ultrices facilisis. Aenean convallis libero eget tincidunt hendrerit. Morbi bibendum fringilla nisl vitae maximus. Donec eget posuere tellus. Nunc pharetra est non nunc consectetur consectetur. Duis convallis eros eu tortor mollis efficitur. Nunc hendrerit purus a facilisis tristique. Quisque laoreet nec felis sed sagittis. ",
+        "status": 1,
+        "contactPhone": {
+            "countryCallingCode": "+90",
+            "areaCode": "879",
+            "number": "9797979"
+        }
+    }
+]
