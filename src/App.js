@@ -26,6 +26,10 @@ function App() {
               height="60"
               width="100" />
           </a>
+          <a className="navbar-text mr-4" target="_blank" href="https://github.com/uckuruslukopera/vitae">
+
+            Github'da gör
+          </a>
         </nav>
 
         <main className="container ">

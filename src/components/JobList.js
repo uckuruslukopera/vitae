@@ -101,7 +101,7 @@ class JobList extends Component {
     handleKeywordInputChange(e) {
         e.preventDefault();
         if (e && e.target && e.target.value) {
-            this.setState({ location: e.target.value.trim().toLowerCase() })
+            this.setState({ query: e.target.value.trim().toLowerCase() })
         } else {
             this.fetchJobs();
         }

@@ -2,6 +2,10 @@
 
 A job search application developed using React
 
+### Live Demo
+
+[See on Heroku](https://vitae-mt.herokuapp.com)
+
 ### Specifications
 
 * Users can search by a keyword or a location
