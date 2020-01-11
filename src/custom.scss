@@ -1,0 +1,14 @@
+// $body-bg: #17a2b8;
+// $text-color: #f8f9fa; 
+
+$primary: #17a2b8;
+$btn-border-radius: 0;
+$input-border-radius: unset;
+
+* {
+    outline: none;
+}
+
+
+
+@import '~bootstrap/scss/bootstrap.scss';

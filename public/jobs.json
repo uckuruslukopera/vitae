@@ -1,0 +1,87 @@
+{
+    "version": "1.0",
+    "statusCode": 200,
+    "result": {
+        "items": [
+            {
+                "jobId": "C71CD1954BA149BCAF42B25F775EA4FB",
+                "positionName": "Gerber Operatörü",
+                "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+                "durationDay": 0,
+                "durationDayText": "Taze çıktı!",
+                "imageUrl": "https://i.pravatar.cc/32",
+                "distance": "8,53 km yakınında",
+                "latitude": 41.050968170166023,
+                "longitude": 29.062856674194339,
+                "cityName": "İstanbul",
+                "townName": "Çengelköy Mahallesi"
+            },
+            {
+                "jobId": "C71CD1954BA149BCAF42B25F775EA5FB",
+                "positionName": "Ofis Adamı",
+                "companyName": "Deniz Sinemacılık ve Reklam",
+                "durationDay": 2,
+                "durationDayText": "Yeni Sayılır!",
+                "imageUrl": "https://i.pravatar.cc/32",
+                "distance": "8,53 km yakınında",
+                "latitude": 41.050968170166023,
+                "longitude": 29.062856674194339,
+                "cityName": "İstanbul",
+                "townName": "Çengelköy Mahallesi"
+            },
+            {
+                "jobId": "C71CD1954BA149BCAF42B25F775EA6FB",
+                "positionName": "Boş İşler Müdürü",
+                "companyName": "Boş Beleş Holding",
+                "durationDay": 2,
+                "durationDayText": "Yeni Sayılır!",
+                "imageUrl": "https://i.pravatar.cc/32",
+                "distance": "8,53 km yakınında",
+                "latitude": 41.050968170166023,
+                "longitude": 29.062856674194339,
+                "cityName": "İstanbul",
+                "townName": "Çengelköy Mahallesi"
+            },
+            {
+                "jobId": "C71CD1954BA149BCAF42B25F775EA7FB",
+                "positionName": "Toplantı Uzman Yardımcısı",
+                "companyName": "Olympia Profesyonel Toplantı Hizmetleri",
+                "durationDay": 5,
+                "durationDayText": "Eskiyor!",
+                "imageUrl": "https://i.pravatar.cc/32",
+                "distance": "8,53 km yakınında",
+                "latitude": 41.050968170166023,
+                "longitude": 29.062856674194339,
+                "cityName": "İstanbul",
+                "townName": "Çengelköy Mahallesi"
+            },
+            {
+                "jobId": "C71CD1954BA149BCAF42B25F775EA8FB",
+                "positionName": "Uzman Düşünür",
+                "companyName": "Siz Kendinizi Yormayın Ajansı",
+                "durationDay": 8,
+                "durationDayText": "Nerdeyse Bulmuşlardır!",
+                "imageUrl": "https://i.pravatar.cc/32",
+                "distance": "8,53 km yakınında",
+                "latitude": 41.050968170166023,
+                "longitude": 29.062856674194339,
+                "cityName": "İstanbul",
+                "townName": "Çengelköy Mahallesi"
+            },
+            {
+                "jobId": "C71CD1954BA149BCAF42B25F775EA9FB",
+                "positionName": "Geri Bildirim Analisti",
+                "companyName": "Ekip Ruhu Limited Şirketi",
+                "durationDay": 8,
+                "durationDayText": "Nerdeyse Bulmuşlardır!",
+                "imageUrl": "https://i.pravatar.cc/32",
+                "distance": "8,53 km yakınında",
+                "latitude": 41.050968170166023,
+                "longitude": 29.062856674194339,
+                "cityName": "İstanbul",
+                "townName": "Çengelköy Mahallesi"
+            }
+        ],
+        "total": 1
+    }
+}
